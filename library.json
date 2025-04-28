@@ -1,0 +1,28 @@
+{
+    "name": "BU9873",
+    "version": "1.0.0",
+    "description": "Arduino library for BU9873 RTC via I2C",
+    "keywords": [
+      "rtc",
+      "clock",
+      "time",
+      "i2c",
+      "BU9873",
+      "rohm"
+    ],
+    "authors": [
+      {
+        "name": "Saran Yim",
+        "email": "example@email.com",
+        "url": "",
+        "maintainer": true
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/saranyim/BU9873"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
+  
